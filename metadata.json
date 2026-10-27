@@ -1,0 +1,6 @@
+{
+  "name": "Bank Adhe",
+  "description": "Aplikasi pencatat keuangan pribadi offline (Android version).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
